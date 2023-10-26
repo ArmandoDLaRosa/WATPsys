@@ -225,7 +225,7 @@ types-xmltodict==0.13
 types-xxhash==3.0
 types-zxcvbn==4.4
 typing_extensions==4.4.0
-urllib3==1.26.12
+urllib3==1.26.18
 v4l2-python3==0.3.2
 webencodings==0.5.1
 Werkzeug==2.2.2
